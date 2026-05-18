@@ -10,6 +10,7 @@ ICD: F51
 
 IU's [*Knees*](https://youtu.be/SfeaTW4bcAw?si=HWEv0yD7kAuEwNrN) is a song written from the perspective of an adult suffering from insomnia, longing for the peaceful childhood days of falling into a deep sleep while resting on their grandmother's lap. Driven by a gentle guitar melody, the song approaches insomnia not merely as the clinical distress of being unable to sleep, but rather as a "fundamental nostalgia felt by a child who has been forced to grow up." It creates a stark contrast between a busy, exhausted present—where one tosses and turns at the slightest rustle, ever-vigilant—and a past where one slipped into a deep, dreamless sleep enveloped in comforting warmth. Ultimately, "Knees" embraces the loneliness and vulnerability we carry as adults. Through the poignant metaphor of a "lap," it offers warm consolation to our desperate yearning to find comfort and rest once again amidst the harsh realities of daily life. It may also be helpful to refer to [content on depression](choi-dahyeon.md) in relation to this.
 
+<img src="./kim-chaeeun.png" alt="sleeping on grandmother’s lap" style="width:40%;" />
 
 # 무릎
 
